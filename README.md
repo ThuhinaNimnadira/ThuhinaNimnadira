@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
-# I am a undergraguate form General Sir John Kotelawala Defence University
-# This days I am working on Project - Making Web App for quiz 
+<p> I am a undergraguate form General Sir John Kotelawala Defence University </p>
+<p> This days I am working on Project - Making Web App for quiz </p>
 
 
 ## 🌐 Socials:
