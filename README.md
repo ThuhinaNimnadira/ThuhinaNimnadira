@@ -1,23 +1,84 @@
-## 👋 Hi there
+# 👋 Hi, I'm Thuhina Nimnadira
 
-### 💫 About Me  
-<p>I am an undergraduate from General Sir John Kotelawala Defence University.</p>  
-<p>These days, I am working on a project — building a Web App for quizzes.</p>
-
----
-
-## 🌐 Socials  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ThuhinaNimnadira)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/thuhina.nimnadira)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/Thuhina-Nimnadira)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Future+AI+Engineer;Building+Real-World+Systems;Always+Learning+🚀&center=true&width=500&height=50">
+</p>
 
 ---
 
-## 💻 Tech Stack  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## 🚀 About Me
+
+💻 Passionate Software Developer focused on building real-world applications
+🚀 Currently developing ERP systems, student platforms & tourism solutions
+🌱 Exploring AI, system design, and scalable architectures
+
+🎯 **Goal:** Become a top-tier AI & Software Engineer
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThuhinaNimnadira&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThuhinaNimnadira&theme=dark&hide_border=false)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThuhinaNimnadira&theme=dark&hide_border=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=ThuhinaNimnadira&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🛠️ Tech Stack
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+### 💻 Frontend
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge\&logo=angular)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThuhinaNimnadira&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThuhinaNimnadira&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+* 🤖 Artificial Intelligence
+* 🏗️ System Design
+* ⚡ Advanced Full-Stack Development
+
+---
+
+## 🔥 Featured Projects
+
+* 🧑‍🎓 Student Management System (Role-based system)
+* 🏢 ERP System for Cosmetic Company
+* 🌍 Tourism Web App for Sri Lanka
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ThuhinaNimnadira">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I believe in **learning by building**, and every project I create brings me closer to mastery.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThuhinaNimnadira&color=blue&style=flat-square" />
+</p>
